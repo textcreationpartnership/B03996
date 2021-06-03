@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a merchant at London to his correspondent in Amsterdam</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03996</idno><idno type="EEBO-CITATION">52614747</idno>
+  <idno type="VID">175940</idno>
+  <idno type="EEBO-PROQUEST">2240860473</idno>
+  
+            <idno type="STC">Wing L1414</idno>
+            <idno type="STC">ESTC R179536</idno>
+            <idno type="OCLC">52614747</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175940)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a merchant at London to his correspondent in Amsterdam</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing (2nd ed.) erroneously gives title as: A letter from a merchant in London ...</note>
+                  <note>Text in double columns.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175940:1"/>
+            <head>A LETTER FROM A MERCHANT AT LONDON To his Correspondent in Amsterdam.</head>
+            <p>THe present state of our affairs makes me call to mind an Italian Epitaph, which I have been told, is in some part of Tuscany, in these words: <hi>sto qui per esser me<g ref="char:EOLhyphen"/>glio.</hi>
+            </p>
+            <p>They say, that he who caus'd it to be ins<g ref="char:EOLhyphen"/>crib'd on his tomb was a man of one of the healthiest constitutions in all that countrey, and that being persuaded by an Emperick, he would be much better by making use of his medicines, he was prevail'd with to take them, and by that means passing from a vi<g ref="char:EOLunhyphen"/>gorous health to a speedy agony, he had the charity to admonish posterity by this Epi<g ref="char:EOLhyphen"/>taph, that when men are well, they should keep where they are.</p>
+            <p>This is easily apply'd to what has lately happen'd amongst ourselves. Our nation was in the most flourishing condition we could desire, we enjoy'd a full peace with out any apprehension that it could be disturb'd by our Neighbors, our commerce brought us not only the riches of all Europe, but also those of the whole East and west, our li<g ref="char:EOLhyphen"/>berties and properties were in an entire se<g ref="char:EOLhyphen"/>curity, we liu'd under a lawful Authority which exceeded not the bounds prescrib'd by the laws, and tho' the Popish Religion serv'd for a pretext to those who hop'd to find their account in the change of the Governement, yet such as were both clearsighted and since<g ref="char:EOLhyphen"/>rely concern'd for the quiet of their countrey laugh'd at those fears which were pretended on the behalf of the Protestant Religion; there being a thousand Protestants amongst us for one Papist, and so few of this latter sort amongst the King's Forces, that how great soever his desire might have been for the advancement of the Religion he profess'd, he could not have procur'd it any greater ad<g ref="char:EOLhyphen"/>vantage than what the Parliament, and con<g ref="char:EOLhyphen"/>sequently the whole nation would have consented to; in a word, we had nothing to desire but the continuation of the happi<g ref="char:EOLhyphen"/>ness we enjoy'd, and nothing could have destroy'd this but the desire of greater happi<g ref="char:EOLhyphen"/>ness than 'tis lawful for subjects to ex<g ref="char:EOLhyphen"/>pect.</p>
+            <p>Now we have met with the Emperick, who has seduc'd us, and made us take me<g ref="char:EOLhyphen"/>dicines so violent that they have destroy'd the vigour of our natural constitution. we were not able to endure an army tho' of our own nation, and compos'd of none but our own Relations and friends, who could never have been employ'd against our selves; for which reason they are either dispers'd or transported by him, that there might be no obstacle to his designs. 'Tis likewise to heal us of all our distempers that he has brought over whole armies of French, Danes, and Germans already, that he now dispat<g ref="char:EOLhyphen"/>ches Count Solmes to the Princes of the Empire for the fetching 15000. men (or more if possible) from the same countrey, and that he labors to get men from the Suisse Cantons, Sweden, and all the countreys of Europe for the making such a compound as may be able to disperse our ill humors: and those sentiments of liberty so opposite to the speedy effect of his medicines. 'Tis also to prepare us for it by frequent Bleedings that we now hear of nothing but such ex<g ref="char:EOLhyphen"/>traordinary and insupportable impositions, that it is not to be doubted but in a little time, together with the want of commerce, they will (according to what he has projec<g ref="char:EOLhyphen"/>ted) weaken the nation to that degree that it will not be in a condition to struggle any more against arbitrary Government, or that any Parliament hereafter will dare to ask him, or those he employes in executing his designs, any account of their actions.</p>
+            <p>I am likewise well assur'd, that he could not hold from telling some of his confidents, that assoon as this great number of foreign Troops (which he designs rather for the sub<g ref="char:EOLhyphen"/>duing us than making war upon our Neigh<g ref="char:EOLhyphen"/>bors) shal have depriu'd all the honest Gent<g ref="char:EOLhyphen"/>lemen of all liberty of speaking and acting,
+<pb n="8" facs="tcp:175940:2"/>he will give us to understand that he expects a blind obedience to his will, and that such as have had the boldness to propose the ma<g ref="char:EOLhyphen"/>king it High Treason to bring in any foreign Forces in to the Kingdom, shall soon feel the effects of his revenge, and serve for a terror to others who might be enclin'd to give the same testimony of their affection for their countrey, and resolution in case they had any hope of being seconded; which possibly as yet they may have, there being hitherto vigor and force enough left in the English nation to oppose the slavery they are threaten'd with and rescue the com<g ref="char:EOLhyphen"/>mon liberty: but this will soon be at an end, when the nation is burthen'd with so great a body of strangers, which are brought in to it for no other purpose than to subdue it.</p>
+            <p>In fine, if we do not take our selves quic<g ref="char:EOLhyphen"/>kly out of the hands of this Emperick, it is not to be hop'd that we shall long preserve either our Estates, our liberties, or our lives. we may judge also, by what he has done at one time against the church of en<g ref="char:EOLhyphen"/>gland, and next against the Presbyterians, that he is resolved to favor no Religion but what is most submissive to his will, and that he will omit no means which may help him to gain an arbitrary power over us, and to exterminate those who shal oppose it.</p>
+            <p>This, S<seg rend="sup">r</seg>, is what all the reasonable men of this Kingdom think concerning the pre<g ref="char:EOLhyphen"/>sent posture of our Governement, and yet never theless we all continue in a lethargie most unworthy of so brave a nation, and one which has always been so jealous of its liberty. However we ought not to despair but that ere long some Patriots will appear bold enough to encourage the rest, and that they will be follow'd and supported by all those who are enemies to Tyrany and usurpation. I desire you to keep secret, what I write remaining, &amp;c.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
